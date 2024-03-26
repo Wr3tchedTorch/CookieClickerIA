@@ -1,0 +1,4 @@
+pyautogui
+keyboard
+PyWin32
+opencv-python
